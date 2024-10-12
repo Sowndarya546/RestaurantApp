@@ -1,0 +1,12 @@
+[ERROR] 06-10-2023 07:26:14.759 PM [http-nio-9090-exec-1]  com.restaurant.service.RestaurantServiceImpl - Enter valid mobile number
+[ERROR] 06-10-2023 08:22:25.139 PM [http-nio-9090-exec-2]  com.restaurant.service.RestaurantServiceImpl - Enter valid mobile number
+[ERROR] 06-10-2023 09:15:10.387 PM [http-nio-9090-exec-4]  com.restaurant.service.RestaurantServiceImpl - Enter valid mobile number
+[ERROR] 06-10-2023 09:26:14.650 PM [http-nio-9090-exec-1]  com.restaurant.service.RestaurantServiceImpl - Enter valid mobile number
+[ERROR] 06-10-2023 10:29:20.312 PM [http-nio-9090-exec-2]  com.restaurant.service.RestaurantServiceImpl - Enter valid mobile number
+[ERROR] 06-10-2023 10:29:38.159 PM [http-nio-9090-exec-5]  com.restaurant.service.RestaurantServiceImpl - Enter valid mobile number
+[INFO ] 06-10-2023 10:29:46.582 PM [http-nio-9090-exec-6]  com.restaurant.service.RestaurantServiceImpl - Customer with id : bookingId booked successfully
+[INFO ] 06-10-2023 10:30:52.123 PM [http-nio-9090-exec-7]  com.restaurant.service.RestaurantServiceImpl - Customer with id : bookingId booked successfully
+[INFO ] 06-10-2023 10:31:01.944 PM [http-nio-9090-exec-8]  com.restaurant.service.RestaurantServiceImpl - Customer with id : 300 booked successfully
+[INFO ] 06-10-2023 10:33:13.665 PM [http-nio-9090-exec-5]  com.restaurant.service.RestaurantServiceImpl - Transaction completed successfully
+[INFO ] 06-10-2023 10:33:58.987 PM [http-nio-9090-exec-6]  com.restaurant.service.RestaurantServiceImpl - “View booking on a particular date is successfully done
+[INFO ] 06-10-2023 10:34:22.998 PM [http-nio-9090-exec-9]  com.restaurant.service.RestaurantServiceImpl - “Find star rated customer is successful
